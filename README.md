@@ -53,4 +53,5 @@ The completed application should meet the following criteria:
 * Set this project up in your own GitHub repositories so that you can deploy and use it for future reference!
 
 ---
+## Credit
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
